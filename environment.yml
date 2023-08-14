@@ -58,3 +58,4 @@ dependencies:
     - duecredit
     - git-credential-helpers
     - cloudpathlib[s3,gz,azure]
+    - git+https://github.com/tknapen/nsd_access.git
